@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+#### Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1TFF28)
+
 <!--
 **BirknerAlex/BirknerAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
