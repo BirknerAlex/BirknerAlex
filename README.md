@@ -1,21 +1,18 @@
 ### Hi there 👋
 
+I'm Alex, born in 1992 and passionate about all things Golang, game server hosting, and infrastructure management.
 
-#### Support
+💻 I have over 10 years of experience in game server hosting industry, ensuring seamless and high-performance gameplay experiences for gamers worldwide.
+
+🚀 My interests extend to technologies like Kubernetes for scalable deployments, bare-metal hosting for optimized performance, and gaming technologies that enhance player experiences.
+
+🌟 I'm always exploring new ways to optimize code, improve server performance, and streamline deployment processes to deliver top-notch gaming experiences.
+
+### Stats
+
+![alt text](https://github-readme-stats.vercel.app/api?username=BirknerAlex&show_icons=true&count_private=true&theme=dark)
+
+### Support me :heart:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1TFF28)
 
-<!--
-**BirknerAlex/BirknerAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
