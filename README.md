@@ -8,10 +8,6 @@ I'm Alex, born in 1992 and passionate about all things Golang, game server hosti
 
 🌟 I'm always exploring new ways to optimize code, improve server performance, and streamline deployment processes to deliver top-notch gaming experiences.
 
-### Stats
-
-![alt text](https://github-readme-stats.vercel.app/api?username=BirknerAlex&show_icons=true&count_private=true&theme=dark)
-
 ### Support me :heart:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1TFF28)
